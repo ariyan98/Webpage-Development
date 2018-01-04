@@ -1,2 +1,2 @@
-# project1
-webpage dev
+# project 1
+This is a HTML based web page.
