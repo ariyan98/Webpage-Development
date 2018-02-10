@@ -1,2 +1,2 @@
 # project 1
-This is a HTML based web page.
+This is a HTML css jquery based sample profile page.
